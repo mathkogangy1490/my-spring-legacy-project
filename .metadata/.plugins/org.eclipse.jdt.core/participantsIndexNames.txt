@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\kogo1\Documents\workspace-sts-3.9.10.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4051126656.index
+\e00\src\main\java
+C:\Users\kogo1\Documents\workspace-sts-3.9.10.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3178133098.index
+\ex00\src\main\java

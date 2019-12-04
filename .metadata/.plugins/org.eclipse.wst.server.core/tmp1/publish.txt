@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Dec 05 00:40:03 KST 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\kogo1\\.m2\\repository\\org\\springframework\\spring-web\\5.0.7.RELEASE\\spring-web-5.0.7.RELEASE.jar=D\:\\AplicationProgramDownload\\program-editors\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\ex00\\WEB-INF\\lib\\spring-web-5.0.7.RELEASE.jar
+org.eclipse.jst.jee.server\:ex00=D\:\\AplicationProgramDownload\\program-editors\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\ex00

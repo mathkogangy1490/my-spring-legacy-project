@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="JDBDTests" project="ex00" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="org.zerock.persistence.JDBDTests" time="1.232">
+    <testcase name="testConnection" classname="org.zerock.persistence.JDBDTests" time="1.232"/>
+  </testsuite>
+</testrun>
